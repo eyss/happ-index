@@ -14,7 +14,7 @@ name = "Holo invaders"
 id = "invaders-ui"
 ui_bundle_hash = "Qm34abcde"
 # Optional, might also be retrieved from hchc via hash long-term
-uri = "https://github.com/eyss/holo-invaders-front/releases/download/1/ui.zip
+uri = "https://github.com/eyss/holo-invaders-front/releases/download/1/ui.zip"
 
 [[UIs.instance_references]]
 ui_handle = "invaders"

@@ -10,7 +10,7 @@ dna_hash = "QmQHdELR3ccvdBffpSQ1g5RwkEpyHKHi6L5u9FC3QdzXwr"
 # Optional, might also be retrieved from hchc via hash long-term
 uri = "https://github.com/eyss/holo-invaders-back/releases/download/1/holo-invaders-back.dna.json"
 [[UIs]]
-name = "Holo invaders"
+name = "Holo pacman"
 # Optional, might also be retrieved from hchc via hash long-term
 uri = "https://github.com/eyss/h-pacman/releases/download/1/ui.zip"
 

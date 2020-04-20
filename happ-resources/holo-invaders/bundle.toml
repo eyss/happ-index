@@ -11,8 +11,6 @@ uri = "https://github.com/eyss/holo-invaders-back/releases/download/1/holo-invad
 
 [[UIs]]
 name = "Holo invaders"
-id = "invaders"
-ui_bundle_hash = "Qm34abcde"
 # Optional, might also be retrieved from hchc via hash long-term
 uri = "https://github.com/eyss/holo-invaders-front/releases/download/1/ui.zip"
 

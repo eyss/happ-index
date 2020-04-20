@@ -9,11 +9,8 @@ id = "invaders"
 dna_hash = "QmQHdELR3ccvdBffpSQ1g5RwkEpyHKHi6L5u9FC3QdzXwr"
 # Optional, might also be retrieved from hchc via hash long-term
 uri = "https://github.com/eyss/holo-invaders-back/releases/download/1/holo-invaders-back.dna.json"
-
 [[UIs]]
-name = "Holo pacman"
-id = "pacman-ui"
-ui_bundle_hash = "Qm34abcde"
+name = "Holo invaders"
 # Optional, might also be retrieved from hchc via hash long-term
 uri = "https://github.com/eyss/h-pacman/releases/download/1/ui.zip"
 

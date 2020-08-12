@@ -30,5 +30,13 @@
     "icon": "https://github.com/h-be/acorn-ui/blob/master/dist/logo/acorn-logo-desktop-512px%402x.png",
     "screenshot": "https://i.imgur.com/2LreFT4.png",
     "description": "STOP! Don't click INSTALL! First, click 'Show Bundle Contents', then check 'Install with admin interface?'. THEN click 'INSTALL'. Acorn is a way of organizing intended Goals and Outcomes in tree-like structures. You can think of it as a virtual whiteboard for collaborative planning."
+  },
+  {
+    "name": "H-Wiki",
+    "directory": "h-wiki",
+    "github": "https://github.com/eyss/h-wiki-back",
+    "icon": "https://raw.githubusercontent.com/hector0513/icono/master/LogoH-wik-8.png?token=AD4GNJN6YFZ3DGROMOU3AWK6J7B3C",
+    "screenshot": "https://user-images.githubusercontent.com/16279205/74938217-f5747680-53c3-11ea-92de-aa3d3039fc5a.png",
+    "description": "The H-Wiki Project is a site in which users collaboratively modify and structure content directly from a web browser to create a truly distributed knowledge-base"
   }
 ]

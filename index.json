@@ -24,6 +24,14 @@
     "description": "This is the simplest hApp possible - and it is meant for testing Holochain itself, interactively. The DNA passes-through the HDK's API functions as zome functions so that hdk::commit_entry and hdk::get_links can be called directly from the UI. If installed with an admin interface it also renders all the internal redux actions that the Holochain instance processes."
   },
   {
+    "name": "H-Wiki",
+    "directory": "H-Wiki",
+    "github": "https://github.com/eyss/h-wiki-back",
+    "icon": "https://raw.githubusercontent.com/hector0513/icono/master/LogoH-wik-8.png?token=AD4GNJN6YFZ3DGROMOU3AWK6J7B3C",
+    "screenshot": "https://user-images.githubusercontent.com/16279205/74938217-f5747680-53c3-11ea-92de-aa3d3039fc5a.png",
+    "description": "The H-Wiki Project is a site in which users collaboratively modify and structure content directly from a web browser to create a truly distributed knowledge-base"
+  },
+  {
     "name": "Acorn (Use Admin!)",
     "directory": "acorn",
     "github": "https://github.com/h-be/acorn-docs",

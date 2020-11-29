@@ -1,13 +1,5 @@
 [
   {
-    "name": "Communities",
-    "directory": "communities",
-    "github": "https://github.com/Holo-Host/holo-communities",
-    "icon": null,
-    "screenshot": "https://github.com/Holo-Host/holo-communities-dna/releases/download/holoscape-bundle-v0.0.4/holo-communities.png",
-    "description": "Communities app allows you to publish, read, comment on content, as well as message other Holochain users"
-  },
-  {
     "name": "Basic Chat",
     "directory": "basic-chat",
     "github": "https://github.com/willemolding/basic-chat",
@@ -32,15 +24,7 @@
     "description": "This is the simplest hApp possible - and it is meant for testing Holochain itself, interactively. The DNA passes-through the HDK's API functions as zome functions so that hdk::commit_entry and hdk::get_links can be called directly from the UI. If installed with an admin interface it also renders all the internal redux actions that the Holochain instance processes."
   },
   {
-    "name": "Peer Chat",
-    "directory": "peer-chat",
-    "github": "https://github.com/holochain/peer-chat",
-    "icon": null,
-    "screenshot": "https://raw.githubusercontent.com/holochain/peer-chat/develop/doc/screen.png",
-    "description": "A simple chat app designed to get new users up, running and developing on Holochain"
-  },
-  {
-    "name": "Acorn",
+    "name": "Acorn (Use Admin!)",
     "directory": "acorn",
     "github": "https://github.com/h-be/acorn-docs",
     "icon": "https://github.com/h-be/acorn-ui/blob/master/dist/logo/acorn-logo-desktop-512px%402x.png",
@@ -54,6 +38,7 @@
     "icon": null,
     "screenshot": "https://raw.githubusercontent.com/eyss/h-pacman/master/Clipboard%20-%2017%20de%20abril%20de%202020%209_24.png",
     "description": "Classic pacman game with holochain-based storage"
+
   }
   
 ]
